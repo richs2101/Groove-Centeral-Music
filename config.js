@@ -17,7 +17,7 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Groove Centeral Music Bot",
+      name: "Groove Centeral Music",
       password: "foxlaneacademy",
       host: "194.58.66.44",
       port:  6886,
